@@ -4,7 +4,7 @@
  <a href="https://github.com/sayed-masud/profile" target="_blank">
   <img
     alt="Visit Profile"
-    src="https://img.shields.io/badge/Profile-1DA1F2?logo=profile&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Visit Profile-1DA1F2?logo=Visit profile&logoColor=white&style=for-the-badge"
   />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayedmasud69@gmail.com&su=&body=" target="_blank">
