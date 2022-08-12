@@ -1,4 +1,1 @@
-## Top Languages Card:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayed-masud)](https://github.com/anuraghazra/github-readme-stats)
-
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2ecd3d918dae05bd930c9fba49a51cc73ad25ea6d07510c92b0fa479a78d6485/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d76616c656e74696e656665726e616e646573267468656d653d676974687562"><img align="center" src="https://camo.githubusercontent.com/2ecd3d918dae05bd930c9fba49a51cc73ad25ea6d07510c92b0fa479a78d6485/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d76616c656e74696e656665726e616e646573267468656d653d676974687562" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayed-masud&amp;theme=github" style="max-width: 100%;"></a>
