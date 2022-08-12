@@ -3,8 +3,8 @@
  <p>
  <a href="https://github.com/sayed-masud/profile" target="_blank">
   <img
-    alt="Visit Profile"
-    src="https://img.shields.io/badge/Visit Profile-1DA1F2?logo=Visit profile&logoColor=white&style=for-the-badge"
+    alt="Visit GitHub Profile"
+    src="https://img.shields.io/badge/Visit GitHub Profile-1DA1F2?logo=Visit GitHub Profile&logoColor=white&style=for-the-badge"
   />
 </a>
 <a href="https://www.linkedin.com/in/sayedmasud/" target="_blank">
