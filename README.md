@@ -52,8 +52,8 @@
 
 <a href="https://github.com/stars/sayed-masud/lists/asp-net-core-c" target="_blank">
   <img
-    alt="ASP.Net Core C#"
-    src="https://img.shields.io/static/v1?label=&message=ASP.Net Core C#&color=lightgrey"
+    alt="ASP.Net Core"
+    src="https://img.shields.io/static/v1?label=&message=ASP.Net Core&color=lightgrey"
   />
 </a>
 
