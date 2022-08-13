@@ -57,31 +57,10 @@
   />
 </a>
 
-<a href="https://github.com/stars/sayed-masud/lists/desktop-application-winforms" target="_blank">
-  <img
-    alt="Desktop Application"
-    src="https://img.shields.io/static/v1?label=&message=Desktop Application&color=lightgrey"
-  />
-</a>
-
 <a href="https://github.com/stars/sayed-masud/lists/php-php-framework" target="_blank">
   <img
     alt="PHP"
     src="https://img.shields.io/static/v1?label=&message=PHP&color=lightgrey"
-  />
-</a>
-
-<a href="https://github.com/stars/sayed-masud/lists/database-ms-sql-server-mysql" target="_blank">
-  <img
-    alt="Database"
-    src="https://img.shields.io/static/v1?label=&message=Database&color=lightgrey"
-  />
-</a>
-
-<a href="https://github.com/stars/sayed-masud/lists/api-related-work" target="_blank">
-  <img
-    alt="API"
-    src="https://img.shields.io/static/v1?label=&message=API&color=lightgrey"
   />
 </a>
 
@@ -92,6 +71,27 @@
   />
 </a>
 
+<a href="https://github.com/stars/sayed-masud/lists/api-related-work" target="_blank">
+  <img
+    alt="API"
+    src="https://img.shields.io/static/v1?label=&message=API&color=lightgrey"
+  />
+</a>
+
+<a href="https://github.com/stars/sayed-masud/lists/database-ms-sql-server-mysql" target="_blank">
+  <img
+    alt="Database"
+    src="https://img.shields.io/static/v1?label=&message=Database&color=lightgrey"
+  />
+</a>
+
+<a href="https://github.com/stars/sayed-masud/lists/desktop-application-winforms" target="_blank">
+  <img
+    alt="Desktop Application"
+    src="https://img.shields.io/static/v1?label=&message=Desktop Application&color=lightgrey"
+  />
+</a>
+
 <a href="https://github.com/stars/sayed-masud/lists/web-design" target="_blank">
   <img
     alt="Web Design"
@@ -99,7 +99,6 @@
   />
 </a>
 </p>
-
 
 
 
