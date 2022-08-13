@@ -19,7 +19,7 @@
     src="https://img.shields.io/badge/Gmail-0077B5?logo=gmail&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="www.pbs.com.bd" target="_blank">
+<a href="https://pbs.com.bd" target="_blank">
   <img
     alt="Last Dev. Project"
     src="https://img.shields.io/static/v1?label=&message=Last Dev. Project&color=lightgrey&style=for-the-badge"
