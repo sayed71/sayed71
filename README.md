@@ -87,8 +87,8 @@
 
 <a href="https://github.com/stars/sayed-masud/lists/javascript-jquery" target="_blank">
   <img
-    alt="JavaScript & jQuery"
-    src="https://img.shields.io/static/v1?label=&message=JavaScript & jQuery&color=lightgrey"
+    alt="jQuery"
+    src="https://img.shields.io/static/v1?label=&message=jQuery&color=lightgrey"
   />
 </a>
 
