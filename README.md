@@ -33,8 +33,6 @@
 </a>
 </p>
 
-
----
 <p>
 <a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
   <img
