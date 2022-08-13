@@ -32,3 +32,60 @@
   />
 </a>
 </p>
+
+
+### Category wise Work:
+<p>
+<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+  <img
+    alt="ASP.Net WebForms"
+    src="https://img.shields.io/static/v1?label=&message=ASP.Net WebForms&color=lightgrey"
+  />
+</a>
+
+<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+  <img
+    alt="ASP.Net Core C#"
+    src="https://img.shields.io/static/v1?label=&message=ASP.Net Core C#&color=lightgrey"
+  />
+</a>
+
+<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+  <img
+    alt="Windows Application"
+    src="https://img.shields.io/static/v1?label=&message=Windows Application&color=lightgrey"
+  />
+</a>
+
+<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+  <img
+    alt="PHP"
+    src="https://img.shields.io/static/v1?label=&message=PHP&color=lightgrey"
+  />
+</a>
+
+<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+  <img
+    alt="Database"
+    src="https://img.shields.io/static/v1?label=&message=Database&color=lightgrey"
+  />
+</a>
+
+<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+  <img
+    alt="JavaScript & jQuery"
+    src="https://img.shields.io/static/v1?label=&message=JavaScript & jQuery&color=lightgrey"
+  />
+</a>
+
+<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+  <img
+    alt="Web Design & Bootstrap"
+    src="https://img.shields.io/static/v1?label=&message=Web Design & Bootstrap&color=lightgrey"
+  />
+</a>
+</p>
+
+
+
+
