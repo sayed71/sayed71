@@ -22,7 +22,7 @@
 <a href="www.pbs.com.bd" target="_blank">
   <img
     alt="Last Dev. Project"
-    src="https://img.shields.io/static/v1?label=&message=Last Dev. Project&color=yellow&style=for-the-badge"
+    src="https://img.shields.io/static/v1?label=&message=Last Dev Project&color=red&style=for-the-badge"
   />
 </a>
 </p>
