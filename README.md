@@ -33,7 +33,7 @@
 </a>
 </p>
 
-<p>
+<span>
 <a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
   <img
     alt="Featured Work"
@@ -96,7 +96,7 @@
     src="https://img.shields.io/static/v1?label=&message=Web Design & Bootstrap&color=lightgrey"
   />
 </a>
-</p>
+</span>
 
 
 
