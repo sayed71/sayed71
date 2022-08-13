@@ -1,7 +1,7 @@
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayed-masud&theme=github"/></p>
 
  <p>
- <a href="https://github.com/sayed-masud/profile" target="_blank">
+ <a href="https://github.com/sayed-masud/profile#about" target="_blank">
   <img
     alt="Visit GitHub Profile"
     src="https://img.shields.io/static/v1?label=&message=Visit GitHub Profile&color=red&style=for-the-badge"
