@@ -36,51 +36,65 @@
 
 ---
 <p>
-<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/featured-work" target="_blank">
+  <img
+    alt="Featured Work"
+    src="https://img.shields.io/static/v1?label=&message=Featured Work&color=lightgrey"
+  />
+</a>
+
+<a href="https://github.com/stars/sayed-masud/lists/asp-net-webforms-c" target="_blank">
   <img
     alt="ASP.Net WebForms"
     src="https://img.shields.io/static/v1?label=&message=ASP.Net WebForms&color=lightgrey"
   />
 </a>
 
-<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/asp-net-core-c" target="_blank">
   <img
     alt="ASP.Net Core C#"
     src="https://img.shields.io/static/v1?label=&message=ASP.Net Core C#&color=lightgrey"
   />
 </a>
 
-<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/desktop-application-winforms" target="_blank">
   <img
-    alt="Windows Application"
-    src="https://img.shields.io/static/v1?label=&message=Windows Application&color=lightgrey"
+    alt="Desktop Application"
+    src="https://img.shields.io/static/v1?label=&message=Desktop Application&color=lightgrey"
   />
 </a>
 
-<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/php-php-framework" target="_blank">
   <img
     alt="PHP"
     src="https://img.shields.io/static/v1?label=&message=PHP&color=lightgrey"
   />
 </a>
 
-<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/database-ms-sql-server-mysql" target="_blank">
   <img
     alt="Database"
     src="https://img.shields.io/static/v1?label=&message=Database&color=lightgrey"
   />
 </a>
 
-<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/api-related-work" target="_blank">
+  <img
+    alt="API"
+    src="https://img.shields.io/static/v1?label=&message=API&color=lightgrey"
+  />
+</a>
+
+<a href="https://github.com/stars/sayed-masud/lists/javascript-jquery" target="_blank">
   <img
     alt="JavaScript & jQuery"
     src="https://img.shields.io/static/v1?label=&message=JavaScript & jQuery&color=lightgrey"
   />
 </a>
 
-<a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+<a href="https://github.com/stars/sayed-masud/lists/web-design" target="_blank">
   <img
-    alt="Web Design & Bootstrap"
+    alt="Web Design"
     src="https://img.shields.io/static/v1?label=&message=Web Design & Bootstrap&color=lightgrey"
   />
 </a>
