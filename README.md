@@ -25,7 +25,7 @@
     src="https://img.shields.io/static/v1?label=&message=Last Dev. Project&color=lightgrey&style=for-the-badge"
   />
 </a>
- <a href="https://youtu.be/ZO53KrVUCtM" target="_blank">
+ <a href="https://www.youtube.com/embed/ZO53KrVUCtM" target="_blank">
   <img
     alt="Portfolio"
     src="https://img.shields.io/static/v1?label=&message=Work Portfolio&color=lightgrey&style=for-the-badge"
