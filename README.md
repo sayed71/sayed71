@@ -1,8 +1,4 @@
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayed-masud&theme=github"/></p>
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
-Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
-Live Demo: [demo](https://example.com){target="_blank"} //markdown
-Live Demo: <a href="https://example.com" target="_blank">demo</a> //html
 
  <p>
   <a href="https://sayed-masud.github.io" target="_blank">
