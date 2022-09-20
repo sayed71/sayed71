@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=sayed-masud&color=green&label=Profile+Views)
+<!--![](https://komarev.com/ghpvc/?username=sayed-masud&color=green&label=Profile+Views)-->
 <!--<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayed-masud&theme=github"/></p>-->
 <br>
 <a href="https://github.com/sayed-masud/github-readme-activity-graph"><img alt="Kazi Sayed Hossains's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sayed-masud&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
