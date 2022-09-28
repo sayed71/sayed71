@@ -2,7 +2,7 @@
 <!--<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayed-masud&theme=github_dark"/></p>-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayed-masud&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayed-masud&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sayed-masud&theme=github_dark&utcOffset=6)
 
 <!--<br>
 <a href="https://github.com/sayed-masud/github-readme-activity-graph"><img alt="Kazi Sayed Hossains's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sayed-masud&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
