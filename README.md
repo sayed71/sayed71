@@ -41,13 +41,13 @@
 <a href="https://pbs.com.bd" target="_blank">
   <img
     alt="Last Dev. Project"
-    src="https://img.shields.io/static/v1?label=&message=Last Project&color=lightgrey&style=for-the-badge"
+    src="https://img.shields.io/static/v1?label=&message=Last Project&color=yellowgreen&style=for-the-badge"
   />
 </a>
  <a href="https://www.youtube.com/embed/gq-fNaTUf9Y" target="_blank">
   <img
     alt="Work Portfolio"
-    src="https://img.shields.io/static/v1?label=&message=Work Portfolio&color=lightgrey&style=for-the-badge"
+    src="https://img.shields.io/static/v1?label=&message=Work Portfolio&color=yellowgreen&style=for-the-badge"
   />
 </a>
 </p>
