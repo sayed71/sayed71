@@ -14,10 +14,16 @@
     src="https://img.shields.io/static/v1?label=&message=Website&color=red&style=for-the-badge"
   />
 </a>
- <a href="https://github.com/sayed71/profile" target="_blank">
+<!--<a href="https://github.com/sayed71/profile" target="_blank">
   <img
     alt="GitHub Profile"
     src="https://img.shields.io/static/v1?label=&message=GitHub Profile&color=red&style=for-the-badge"
+  />
+</a>-->
+<a href="https://stackoverflow.com/users/14980928/kazi-sayed-hossain?tab=profile" target="_blank">
+  <img
+    alt="Stack Overflow"
+    src="https://img.shields.io/static/v1?label=&message=Stack Overflow&color=red&style=for-the-badge"
   />
 </a>
 <a href="https://www.linkedin.com/in/sayed71" target="_blank">
