@@ -11,7 +11,7 @@
   <a href="https://sayed71.github.io" title="Portfolio Website" target="_blank">
   <img
     alt="Website"
-    src="https://img.shields.io/static/v1?label=&message=Website&color=red&style=for-the-badge"
+    src="https://img.shields.io/static/v1?label=&message=Website&color=9cf&style=for-the-badge"
   />
 </a>
 <!--<a href="https://github.com/sayed71/profile" target="_blank">
@@ -24,6 +24,12 @@
   <img
     alt="Stack Overflow"
     src="https://img.shields.io/static/v1?label=&message=Stack Overflow&color=red&style=for-the-badge"
+  />
+</a>
+<a href="https://www.hackerrank.com/sayed71" target="_blank">
+  <img
+    alt="HackerRank"
+    src="https://img.shields.io/static/v1?label=&message=Hacker Rank&color=red&style=for-the-badge"
   />
 </a>
 <a href="https://www.linkedin.com/in/sayed71" target="_blank">
@@ -53,7 +59,7 @@
  <a href="https://www.youtube.com/embed/gq-fNaTUf9Y" target="_blank">
   <img
     alt="Work Portfolio"
-    src="https://img.shields.io/static/v1?label=&message=Work Portfolio&color=yellowgreen&style=for-the-badge"
+    src="https://img.shields.io/static/v1?label=&message=Portfolio&color=yellowgreen&style=for-the-badge"
   />
 </a>
 </p>
