@@ -127,7 +127,7 @@
     src="https://img.shields.io/static/v1?label=&message=Web Design & Bootstrap&color=yellowgreen"
   />
 </a>
-</p>
+</p>-->
 
 
-
+Email Address: sayed2k7@gmail.com
