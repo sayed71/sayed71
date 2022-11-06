@@ -8,60 +8,45 @@
 <a href="https://github.com/sayed71/github-readme-activity-graph"><img alt="Kazi Sayed Hossains's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sayed71&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 
 <p>
-  <a href="https://sayed71.github.io" title="Portfolio Website" target="_blank">
+<a href="https://sayed71.github.io" title="Portfolio Website" target="_blank">
   <img
     alt="Website"
-    src="https://img.shields.io/badge/Website-0077B5?label=&message=Website&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/static/v1?label=&message=Website&color=red&style=for-the-badge"
   />
 </a>
-<a href="https://www.linkedin.com/in/sayed71" target="_blank">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayed2k7@gmail.com&su=&body=" target="_blank">
-  <img
-    alt="Gmail"
-    src="https://img.shields.io/badge/Gmail-0077B5?logoColor=red&style=for-the-badge"
-  />
-</a>
-<!--<a href="https://www.linkedin.com/in/sayed71" target="_blank">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>-->
-<!--<a href="https://github.com/sayed71/profile" target="_blank">
-  <img
-    alt="GitHub Profile"
-    src="https://img.shields.io/static/v1?label=&message=GitHub Profile&color=red&style=for-the-badge"
-  />
-</a>-->
 <a href="https://stackoverflow.com/users/14980928/kazi-sayed-hossain?tab=profile" target="_blank">
   <img
     alt="Stack Overflow"
     src="https://img.shields.io/static/v1?label=&message=Stack Overflow&color=red&style=for-the-badge"
   />
 </a>
-<a href="https://www.hackerrank.com/sayed71" target="_blank">
+<a href="https://www.linkedin.com/in/sayed71" target="_blank">
   <img
-    alt="HackerRank"
-    src="https://img.shields.io/static/v1?label=&message=Hacker Rank&color=red&style=for-the-badge"
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
-<!--<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayed2k7@gmail.com&su=&body=" target="_blank">
-  <img
-    alt="Gmail"
-    src="https://img.shields.io/badge/Gmail-0077B5?message=Gmail&style=for-the-badge"
-  />
-</a>-->
-<!--<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayed2k7@gmail.com&su=&body=" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayed2k7@gmail.com&su=&body=" target="_blank">
   <img
     alt="Gmail"
     src="https://img.shields.io/badge/Gmail-0077B5?logo=gmail&logoColor=red&style=for-the-badge"
   />
+</a>
+
+<!--<a href="https://github.com/sayed71/profile" target="_blank">
+  <img
+    alt="GitHub Profile"
+    src="https://img.shields.io/static/v1?label=&message=GitHub Profile&color=red&style=for-the-badge"
+  />
 </a>-->
+
+<!--<a href="https://www.hackerrank.com/sayed71" target="_blank">
+  <img
+    alt="HackerRank"
+    src="https://img.shields.io/static/v1?label=&message=Hacker Rank&color=red&style=for-the-badge"
+  />
+</a>-->
+
 <a href="https://pbs.com.bd" target="_blank">
   <img
     alt="Last Dev. Project"
