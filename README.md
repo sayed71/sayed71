@@ -17,9 +17,21 @@
 <a href="https://www.linkedin.com/in/sayed71" target="_blank">
   <img
     alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/linkedin-0077B5?logoColor=white&style=for-the-badge"
   />
 </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sayed2k7@gmail.com&su=&body=" target="_blank">
+  <img
+    alt="Gmail"
+    src="https://img.shields.io/badge/Gmail-0077B5?logoColor=red&style=for-the-badge"
+  />
+</a>
+<!--<a href="https://www.linkedin.com/in/sayed71" target="_blank">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>-->
 <!--<a href="https://github.com/sayed71/profile" target="_blank">
   <img
     alt="GitHub Profile"
